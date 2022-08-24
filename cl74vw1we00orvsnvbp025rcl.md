@@ -26,18 +26,7 @@ The fastest way to learn is by launching and sharing things with others. This wi
 
 I made a list of features that I would love to incorporate into Gradientify. It helped me to be more organized and work in a clear manner.
 
-## ⌚ Set a deadline 
 
-A project is really never complete, So it’s important to set a deadline for completing the project and hold off on launching because you will continue to add new features post-launch and in the future also.
-
-For a first product make sure it’s something you can complete, it’s important to be realistic. Make a list of features you would like to incorporate and set some clear goals. Overcomplicating will only delay its launch. Avoid being too ambitious. It’s important to resist the urge to add new features.
-
-Also, it’s important not to chase perfection, you don’t wanna get stuck working on the same product again and again worrying about the smallest details.
-
-The fastest way to learn is by launching and sharing things with others. This will enable you to get feedback. Therefore, it's better to just ship something that isn't perfect than to spend ages tweaking every single thing until you get frustrated and give up on it entirely.
-
-I made a list of features that I would love to incorporate into Gradientify.
-It helped me to be more organized and work in a clear manner.
 
 ## ⌛ Picking a launch time
 
